@@ -11,3 +11,6 @@ web-build/
 web-report/
 secrets.js
 firebase/config.js
+node_modules
+functions/node_modules/*
+screens/TestScreen.js
