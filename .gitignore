@@ -14,3 +14,4 @@ firebase/config.js
 node_modules
 functions/node_modules/*
 screens/TestScreen.js
+firestore.rules
